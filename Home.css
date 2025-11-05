@@ -1,0 +1,230 @@
+.head {
+  background-color:black;
+  width: 390px;
+  height: 80px;
+  margin-bottom: 15px;
+  text-align:center;
+}
+.title {
+  display: inline-block;
+  font-family: "Permanent Marker"cursive;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top:17px;
+  color: white;
+}
+.search {
+  width: 370px;
+  margin-left: 10px;
+  height: 35px;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 12px;
+  border-style: solid;
+  border:none;
+  margin-bottom: 200px;
+}
+.search-bar {
+  display: inline-block;
+}
+ 
+ 
+ 
+ 
+.container1 {
+  display: block;
+  width: 390px;
+  height: 200px;
+  margin-bottom: 40px;
+border: 1px solid white 
+}
+.iphone_pic {
+  display: inline-block;
+  height: 110px;
+  width: 130px;
+  margin-left:20px;
+  margin-top:35px;
+  margin-bottom: 0px;
+  padding: 10px 10px 12px 10px;
+  float: left;
+  border: 1px solid white 
+}
+.iphone {
+width: 130px;
+height 130px
+}
+.text {
+margin-bottom: 2px;
+margin-top:15px;
+margin-left:170px;
+}
+.phone_text{
+ margin-top: 90px;
+  height: 110px;
+  width: 130px;
+  margin-left: 60px;
+}
+
+
+
+.container2 {
+  display: block;
+  width: 390px;
+  height: 200px;
+  margin-bottom: 40px;
+border: 1px solid white 
+  
+}
+.tablet_pic {
+  display: inline-block;
+  height: 120px;
+  width: 130px;
+  margin-left:20px;
+  margin-top:35px;
+  margin-bottom: 0px;
+  padding: 10px 10px 12px 10px;
+  float: left;
+  border: 1px solid white 
+}
+.tablet {
+width: 130px;
+height 130px
+
+}
+.text {
+margin-bottom: 2px;
+margin-top:15px;
+margin-left:170px;
+}
+.tablet_text{
+ margin-top: 90px;
+  height: 110px;
+  width: 130px;
+  margin-left: 60px;
+ 
+}
+
+
+.container3 {
+  display: block;
+  width: 390px;
+  height: 200px;
+  margin-bottom: 40px;
+border: 1px solid white 
+}
+.laptop_pic {
+  display: inline-block;
+  height: 110px;
+  width: 130px;
+  margin-left:20px;
+  margin-top:35px;
+  margin-bottom: 0px;
+  padding: 10px 10px 12px 10px;
+  float: left;
+  border: 1px solid white 
+}
+.laptop {
+width: 130px;
+height 130px
+}
+.text {
+margin-bottom: 2px;
+margin-top:15px;
+margin-left:170px;
+}
+.laptop_text{
+ margin-top: 90px;
+  height: 110px;
+  width: 130px;
+  margin-left: 60px;
+ 
+}
+
+
+
+.container4 {
+  display: block;
+  width: 390px;
+  height: 200px;
+  margin-bottom: 40px;
+border: 1px solid white 
+}
+.gadget_pic {
+  display: inline-block;
+  height: 110px;
+  width: 130px;
+  margin-left:20px;
+  margin-top:35px;
+  margin-bottom: 0px;
+  padding: 10px 26px 26px 10px;
+  float: left;
+  border: 1px solid white 
+}
+.gadget {
+width: 130px;
+height 130px;
+}
+.text {
+margin-bottom: 2px;
+margin-top:15px;
+margin-left:170px;
+}
+.gadget_text{
+ margin-top: 90px;
+  height: 110px;
+  width: 130px;
+  margin-left: 60px;
+ 
+}
+
+
+.container5 {
+  display: block;
+  width: 390px;
+  height: 200px;
+  margin-bottom: 40px;
+border: 1px solid white 
+}
+.gaming_pic {
+  display: inline-block;
+  height: 110px;
+  width: 130px;
+  margin-left:20px;
+  margin-top:35px;
+  margin-bottom: 0px;
+  padding: 10px 26px 30px 10px;
+  float: left;
+  border: 1px solid white 
+}
+.gaming {
+width: 130px;
+height 100px;
+}
+.text {
+margin-bottom: 2px;
+margin-top:30px;
+margin-left:170px;
+}
+.gaming_text{
+ margin-top: 90px;
+  height: 110px;
+  width: 130px;
+  margin-left: 60px;
+ 
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+
+.footer {
+  display: inline-block;
+  width:390px;
+  background-color: black;
+}
+.footer_text {
+  text-align: center;
+  color: white;
+}

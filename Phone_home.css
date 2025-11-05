@@ -1,0 +1,383 @@
+
+
+
+.head {
+  background-color:black;
+  width: 390px;
+  height: 80px;
+  margin-bottom: 15px;
+  text-align:center;
+}
+.title {
+  display: inline-block;
+  font-family: "Permanent Marker"cursive;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top:17px;
+  color: white;
+}
+.search {
+  width: 370px;
+  margin-left: 10px;
+  height: 35px;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 12px;
+  border-style: solid;
+  border:none;
+  margin-bottom: 20px;
+}
+.search-bar {
+  display: inline-block;
+}
+
+
+.container1 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 350px;
+  width: 150px;
+  margin-bottom: 30px;
+}
+.iphone_16 {
+  height: 150px;
+  width: 130px;
+  margin-left: 10px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.iphone_16_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.iphone_16_price {
+  margin-left: 13px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.iphone_16_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.iphone_16_button:active {
+  opacity: 0.6;
+}
+
+
+.container2 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 350px;
+  width: 150px;
+  margin-left:85px;
+  margin-bottom: 30px;
+}
+.iphone_12 {
+  height: 150px;
+  width: 130px;
+  margin-left: 10px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.iphone_12_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.iphone_12_price {
+  margin-left: 13px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.iphone_12_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.iphone_12_button:active {
+  opacity: 0.6;
+}
+
+.container3 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 370px;
+  width: 150px;
+  margin-bottom: 30px;
+}
+.iphone_17 {
+  height: 150px;
+  width: 150px;
+  margin-left: 0px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.iphone_17_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.iphone_17_price {
+  margin-left: 13px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.iphone_17_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.iphone_17_button:active {
+  opacity: 0.6;
+}
+
+.container4 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 370px;
+  width: 150px;
+  margin-left:85px;
+  margin-bottom: 30px;
+}
+.iphone_13 {
+  height: 150px;
+  width: 150px;
+  margin-left: 0px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.iphone_13_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.iphone_13_price {
+  margin-left: 13px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.iphone_13_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.iphone_13_button:active {
+  opacity: 0.6;
+}
+
+.container5 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 370px;
+  width: 150px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+.A16 {
+  height: 150px;
+  width: 150px;
+  margin-left: 0px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.A16_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.A16_price {
+  margin-left: 13px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.A16_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.A16_button:active {
+  opacity: 0.6;
+}
+
+
+
+
+.container6 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 370px;
+  width: 150px;
+  margin-left:85px;
+  margin-bottom:30px;
+}
+.S24 {
+  height: 150px;
+  width: 130px;
+  margin-left: 10px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.S24_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.S24_price {
+  margin-left: 23px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.S24_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.S24_button:active {
+  opacity: 0.6;
+}
+
+
+.container7 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 380px;
+  width: 150px;
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
+.infinix {
+  height: 150px;
+  width: 150px;
+  margin-left: 0px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.infinix_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.infinix_price {
+  margin-left: 13px;
+  margin-bottom: 5px;
+  margin-top: 7px;
+}
+.infinix_button {
+  margin-top: 7px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.infinix_button:active {
+  opacity: 0.6;
+}
+
+
+.container8 {
+  display: inline-block;
+  border: 1px solid white;
+  height: 380px;
+  width: 150px;
+  margin-left:85px;
+  margin-bottom: 30px;
+  margin-top: 5px;
+}
+.google {
+  height: 150px;
+  width: 130px;
+  margin-left: 10px;
+  margin-top:10px;
+  margin-bottom: 0px;
+}
+.google_text {
+  margin-left: 8px;
+  margin-bottom: 7px;
+}
+.google_price {
+  margin-left: 23px;
+  margin-bottom: 10px;
+  margin-top: 7px;
+}
+.google_button {
+  margin-top: 12px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+}
+.google_button:active {
+  opacity: 0.6;
+}
+.footer {
+  display: inline-block;
+  width:390px;
+  background-color: black;
+}
+.footer_text {
+  text-align: center;
+  color: white;
+}
