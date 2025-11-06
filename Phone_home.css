@@ -35,6 +35,48 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
+/* Phones (small screens) */
+@media (max-width: 480px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 8px;
+  }
+}
+
+/* Tablets */
+@media (min-width: 481px) and (max-width: 768px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+  }
+}
+
+/* Small laptops */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 15px;
+  }
+}
+
+/* Desktops */
+@media (min-width: 1025px) and (max-width: 1440px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+}
+
+/* Huge monitors */
+@media (min-width: 1441px) {
+  .products {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+}
+
 .container1 {
   display: inline-block;
   border: 1px solid white;
