@@ -31,7 +31,10 @@
   display: inline-block;
 }
 
-
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
 .container1 {
   display: inline-block;
   border: 1px solid white;
