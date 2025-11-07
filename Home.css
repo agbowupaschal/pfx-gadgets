@@ -1,6 +1,6 @@
 .head {
   background-color:black;
-  width: 390px;
+  width: 425px;
   height: 80px;
   margin-bottom: 15px;
   text-align:center;
@@ -221,7 +221,7 @@ a {
 
 .footer {
   display: inline-block;
-  width:390px;
+  width:425px;
   background-color: black;
 }
 .footer_text {
