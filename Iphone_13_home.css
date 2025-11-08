@@ -1,0 +1,124 @@
+.head {
+  background-color:black;
+  width: 390px;
+  height: 80px;
+  margin-bottom: 15px;
+  text-align:center;
+  margin-bottom: 0px;
+  position:sticky ;
+}
+.back_link {
+  margin-bottom:60px;
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.title {
+  display: inline-block;
+  font-family: "Permanent Marker"cursive;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top:17px;
+  color: white;
+}
+
+.iphone_16_div {
+  display:inline;
+  width: 100px;
+  margin-left: 50px;
+}
+  .iphone_pic {
+    width: 300px;
+  }
+  
+  .Iphone_16_head {
+    display: inline;
+    margin-bottom: 20px;
+    
+  }
+  .Iphone_16_title {
+    font-family:Times New Roman;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+  }
+  .select_color{
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  .color1 {
+  margin-left: 30px;
+  }
+  .color {
+  width:250px;
+  margin-left: 30px;
+  height: 40px;
+  font-size: 16px;
+  margin-top: 20px;
+  }
+  .select_quantity {
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  .quantity1 {
+  margin-left: 30px;
+}
+.quantity {
+  width:250px;
+  margin-left: 30px;
+  height: 40px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.place_order {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: Arial;
+  font-family: 50px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+  margin-left: 26px;
+}
+.place_order:active {
+  opacity: 0.6;
+  transition: opacity 0.1s;
+  cursor: pointer;
+}
+.Iphone_16_details{
+  margin-left: 50px;
+  line-height: 25px;
+  font-size: 18px;
+  font-family:Georgia;
+  
+}
+.h3_spec{
+  margin-left: 50px;
+  font-family:Georgia;
+}
+.spec {
+  margin-left: 85px;
+  margin-top:20px;
+  margin-bottom: 10px;;
+}
+  .spec1 {
+  text-align:center;
+  }
+  td {
+  width: 360px;
+  height: 70px;
+  }
+  .footer {
+  display: inline-block;
+  width:390px;
+  background-color: black;
+}
+.footer_text {
+  text-align: center;
+  color: white;
+}
