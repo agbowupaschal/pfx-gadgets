@@ -33,11 +33,21 @@
  
 .container1 {
   display: block;
-  width: 390px;
+  width: 360px;
   height: 200px;
+  border-radius:8px;
+  box-shadow: 5px 5px 20px;
   margin-bottom: 40px;
 border: 1px solid white 
 }
+
+@keyframes bounce {
+  0% { transform: scale(1.05); }
+  
+}
+.container1 {
+  animation: bounce 1.5s infinite ease-in-out;}
+
 .iphone_pic {
   display: inline-block;
   height: 110px;
@@ -69,12 +79,22 @@ margin-left:170px;
 
 .container2 {
   display: block;
-  width: 390px;
+  width: 360px;
   height: 200px;
+  border-radius:8px;
+  box-shadow: 5px 5px 20px;
   margin-bottom: 40px;
 border: 1px solid white 
   
 }
+
+@keyframes bounce {
+  0% { transform: scale(1.05); }
+  
+}
+.container2 {
+  animation: bounce 1.5s infinite ease-in-out;}
+
 .tablet_pic {
   display: inline-block;
   height: 120px;
@@ -107,11 +127,20 @@ margin-left:170px;
 
 .container3 {
   display: block;
-  width: 390px;
+  width: 360px;
   height: 200px;
+  border-radius:8px;
+  box-shadow: 5px 5px 20px;
   margin-bottom: 40px;
 border: 1px solid white 
 }
+
+@keyframes bounce {
+  0% { transform: scale(1.05); }
+  
+}
+.container3 {
+  animation: bounce 1.5s infinite ease-in-out;}
 .laptop_pic {
   display: inline-block;
   height: 110px;
@@ -144,11 +173,21 @@ margin-left:170px;
 
 .container4 {
   display: block;
-  width: 390px;
+  width: 360px;
   height: 200px;
+  border-radius:8px;
+  box-shadow: 5px 5px 20px;
   margin-bottom: 40px;
 border: 1px solid white 
 }
+
+@keyframes bounce {
+  0% { transform: scale(1.05); }
+  
+}
+.container1 {
+  animation: bounce 1.5s infinite ease-in-out;}
+  
 .gadget_pic {
   display: inline-block;
   height: 110px;
@@ -180,11 +219,21 @@ margin-left:170px;
 
 .container5 {
   display: block;
-  width: 390px;
+  width: 360px;
   height: 200px;
+  border-radius:8px;
+  box-shadow: 5px 5px 20px;
   margin-bottom: 40px;
 border: 1px solid white 
 }
+
+@keyframes bounce {
+  0% { transform: scale(1.05); }
+  
+}
+.container5 {
+  animation: bounce 1.5s infinite ease-in-out;}
+
 .gaming_pic {
   display: inline-block;
   height: 110px;
